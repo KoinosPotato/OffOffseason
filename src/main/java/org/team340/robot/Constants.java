@@ -19,7 +19,7 @@ public final class Constants {
      */
     public static final class RobotMap {
 
-        public static final String LOWER_CAN = "LowerCAN";
+        public static final String LOWER_CAN = "CANivore";
 
         public static final int FL_MOVE = 2;
         public static final int FL_TURN = 3;
